@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gops-the-game/static/css/main.e8fb29ba.css",
+    "main.js": "/gops-the-game/static/js/main.2cc54f6e.js",
+    "static/js/787.5ffc415d.chunk.js": "/gops-the-game/static/js/787.5ffc415d.chunk.js",
+    "index.html": "/gops-the-game/index.html",
+    "main.e8fb29ba.css.map": "/gops-the-game/static/css/main.e8fb29ba.css.map",
+    "main.2cc54f6e.js.map": "/gops-the-game/static/js/main.2cc54f6e.js.map",
+    "787.5ffc415d.chunk.js.map": "/gops-the-game/static/js/787.5ffc415d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8fb29ba.css",
+    "static/js/main.2cc54f6e.js"
+  ]
+}
